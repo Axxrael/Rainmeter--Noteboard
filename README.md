@@ -1,7 +1,6 @@
 # Noteboard
 
-*This is a project for Rainmeter and as such will require it to be installed in order to function. Rainmeter is a program that allows you to customize your desktop by displaying widgets called "meters" that can allow for interacting and stylization of your desktop. To discover more about Rainmeter visit their homepage at: https://www.rainmeter.net/.*
----
+>*This is a project for Rainmeter and as such will require it to be installed in order to function. Rainmeter is a program that allows you to customize your desktop by displaying widgets called "meters" that can allow for interacting and stylization of your desktop. To discover more about Rainmeter visit their homepage at: https://www.rainmeter.net/.*
 
 Noteboard for Rainmeter is a meter that loads onto your desktop and allows for several tabs of text to be stored and edited. It uses Rainmeters builtin plugin [InputText](https://docs.rainmeter.net/manual/plugins/inputtext/) to allow a user to type information into the notepad interface directly from the meter. No other programs are required. In particular, it stores and several different tabs and is capable of working with multiline text. This is done by converting the necessary linebreaks into their respective symbols that Rainmeter can understand. Conversion is then reproduced in order to serve out the text as it should be after editing is saved.
 
@@ -21,7 +20,7 @@ This project was inspired by the need to store and edit basic note keeping tasks
 
 ## Install
 
-This is a project for Rainmeter and as such must have Rainmeter installed in order for this meter to function.
+This is a project for Rainmeter and as such must have Rainmeter installed in order for this meter to function. To download Rainmeter checkout their homepage for the most recent stable and beta links: https://www.rainmeter.net/.
 - The easiest way to install this meter is to simply open this [.rmskin file](https://s3.amazonaws.com/alice-exe/github/Rainmeter--Noteboard/NoteboardX.rmskin) and let Rainmeter install it appropriately.
 - To manually install simply download this repository or this [skin folder](https://s3.amazonaws.com/alice-exe/github/Rainmeter--Noteboard/NoteboardX.zip) and place it in your Rainmeter's skin folder. The default is typically in \%userprofile%\Rainmeter\Skins\. For more detailed information installing Rainmeter skins check out their [documentation](https://docs.rainmeter.net/manual/installing-skins/).
 
