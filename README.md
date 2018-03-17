@@ -21,8 +21,8 @@ This project was inspired by the need to store and edit basic note keeping tasks
 ## Install
 
 This is a project for Rainmeter and as such must have Rainmeter installed in order for this meter to function. To download Rainmeter checkout their homepage for the most recent stable and beta links: https://www.rainmeter.net/.
-- The easiest way to install this meter is to simply open this [.rmskin file](https://s3.amazonaws.com/alice-exe/github/Rainmeter--Noteboard/NoteboardX.rmskin) and let Rainmeter install it appropriately.
-- To manually install simply download this repository or this [skin folder](https://s3.amazonaws.com/alice-exe/github/Rainmeter--Noteboard/NoteboardX.zip) and place it in your Rainmeter's skin folder. The default is typically in \%userprofile%\Rainmeter\Skins\. For more detailed information installing Rainmeter skins check out their [documentation](https://docs.rainmeter.net/manual/installing-skins/).
+- The easiest way to install this meter is to simply open this [.rmskin file](https://s3.amazonaws.com/alice-exe/github/Rainmeter--Noteboard/Noteboard.rmskin) and let Rainmeter install it appropriately.
+- To manually install simply download this repository or this [skin folder](https://s3.amazonaws.com/alice-exe/github/Rainmeter--Noteboard/Noteboard.zip) and place it in your Rainmeter's skin folder. The default is typically in \%userprofile%\Rainmeter\Skins\. For more detailed information installing Rainmeter skins check out their [documentation](https://docs.rainmeter.net/manual/installing-skins/).
 
 ## Usage
 
