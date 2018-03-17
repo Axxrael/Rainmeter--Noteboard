@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 function EditTabA(n)
 	SKIN:Bang('!SetVariable TabOrig """'..SKIN:GetVariable('Tab'..n):gsub("\n", "\r\n")..'"""')
 	SKIN:Bang('!CommandMeasure NoteboardInput "ExecuteBatch 2"')
@@ -34,4 +33,3 @@ end
 function ClipTab(n)
 	SKIN:Bang('!SetClip "'..SKIN:GetVariable('Tab'..n):gsub("\n", "\r\n")..'"')
 end
->>>>>>> cfd0269b5bc866523cd9417a4100784c761043d9
