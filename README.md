@@ -1,4 +1,5 @@
 # Noteboard
+
 *This is a project for Rainmeter and as such will require it to be installed in order to function. Rainmeter is a program that allows you to customize your desktop by displaying widgets called "meters" that can allow for interacting and stylization of your desktop. To discover more about Rainmeter visit their homepage at: https://www.rainmeter.net/.*
 ---
 
