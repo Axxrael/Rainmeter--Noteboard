@@ -1,6 +1,7 @@
 [Variables]
 
 FontSize=9
+TitleFontSize=14
 FontFace=Lucida Console
 TextColor=220,220,220,255
 ActiveTabColor=220,220,220,255
